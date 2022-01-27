@@ -1,0 +1,5 @@
+- 👋 Hi, I’m mehdi ghorbani
+- 👀 I'm interested in developing javascript and backend
+- 🌱 I am currently learning JS and will be learning node.js soon
+- 💞️ I’m looking to collaborate on,,, nothing at this moment ;)
+- 📫 If you want to contact me: mehdighorbanin@gmail.com
