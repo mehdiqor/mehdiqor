@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend Developer<br>interested in DevOps<br>Currently learning
+- ⚡ Backend Developer<br>- 🤔 Interested in DevOps<br>- 🌱 Currently learning
 
 
 ## 🌐 Socials:
@@ -18,8 +18,6 @@ Backend Developer<br>interested in DevOps<br>Currently learning
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mehdiqor&icon=0&color=0)](https://visitcount.itsvg.in)
