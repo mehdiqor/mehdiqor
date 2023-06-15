@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Backend Developer<br>🤔 Interested in DevOps<br>🌱 Currently learning
+🤔 Interested in Open-source, linux, DevOps<br>🌱 Currently learning
 
 
 # 💻 Tech Stack:
