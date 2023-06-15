@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤔 Interested in Open-source, Linux, DevOps<br>🌱 Currently learning
+🤔 Interested in Open-source, Linux, DevOps, AI<br>🌱 Learning forever
 
 
 # 💻 Tech Stack:
