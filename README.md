@@ -1,7 +1,7 @@
 # 💫 About Me:
-I’m a backend developer who loves diving into C# and Node.js
-I enjoy solving problems and exploring new tech
-When I'm not coding, I'm probably thinking about bugs—because even in my dreams, they’re always bugging me
+I’m a backend developer who loves diving into C# and Node.js</br>
+I enjoy solving problems and exploring new tech</br>
+When I'm not coding, I'm probably thinking about bugs—because even in my dreams, they’re always bugging me</br>
 Feel free to check out my repos and say hi!
 
 
